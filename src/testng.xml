@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ExlAssignmentTests" verbose="1" thread-count="1">
+    <test name="Assignment">
+        <classes>
+            <class name="TestClass">
+            </class>
+        </classes>
+    </test>
+    </suite>
